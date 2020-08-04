@@ -6,7 +6,7 @@
 
 🌱 Hope to be a back-end developer
 
-🌴 Interested in Web development and databases
+🌴 Interested in Web development and Databases
 
 
 
