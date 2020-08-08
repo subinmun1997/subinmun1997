@@ -13,23 +13,23 @@
 <table>
   <tbody>
     <tr valign="top">
-      <td width="7%" align="center">
+      <td width="5%" align="center">
         <span>𝗖</span><br><br><br>
-        <img height="32px" src="https://cdn.svgporn.com/logos/c.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/c.svg">
       </td>
-      <td width="7%" align="center">
+      <td width="5%" align="center">
         <span>𝗝𝗮𝘃𝗮</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
       </td>
-      <td width="7%" align="center">
+      <td width="5%" align="center">
         <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
-      <td width="7%" align="center">
+      <td width="5%" align="center">
         <span>𝗚𝗶𝘁</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
-      <td width="7%" align="center">
+      <td width="5%" align="center">
         <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼 𝗖𝗼𝗱𝗲</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
