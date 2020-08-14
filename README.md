@@ -42,7 +42,7 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=subinmun1997&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subinmun1997&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subinmun1997&layout=compact)
 
 
 
