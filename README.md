@@ -3,7 +3,7 @@
 
 
 
-🎓 College student1
+🎓 College student
 
 🌱 Hope to be a back-end developer
 
