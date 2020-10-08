@@ -23,7 +23,6 @@
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-
 <img align="left" alt="Jquery" width="26px" src="https://user-images.githubusercontent.com/19311256/89726918-c28b7100-da3d-11ea-9e0a-b37f1e2527ea.png" />
 <img align="left" alt="Spring tool suite" width="26px" src="https://user-images.githubusercontent.com/19311256/89726919-c61ef800-da3d-11ea-868d-b33d9955dfcc.png" />
 <img align="left" alt="Spring boot" width="26px" src="https://user-images.githubusercontent.com/19311256/89726694-eef1be00-da3a-11ea-8551-a9e143ea0c5d.png" />
