@@ -13,11 +13,10 @@
 
 ✍ Currently learning 
 
-
-<img src="./svg/dev/framework/spring.svg" alt="spring" />
-<img src="svg/dev/services/kubernetes.svg" alt="kubernetes" style="vertical-align:top; margin:4px">
-<img src="svg/dev/tools/docker.svg" alt="docker" style="vertical-align:top; margin:4px">
-<img src="svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
+- Spring
+- kubernetes
+- Docker
+- AWS
 
 📝 Languages 
 
@@ -38,6 +37,7 @@
 
 
 
+
 💻 Tools
 
 <img align="left" alt="Eclipse" width="26px" src="https://user-images.githubusercontent.com/19311256/89726620-eea4f300-da39-11ea-8d26-8f1d68a2704a.png" />
@@ -46,6 +46,9 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+
+
+
 
 
 
