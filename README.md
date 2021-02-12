@@ -1,16 +1,23 @@
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi%20there👋&fontSize=60)
+Hi there👋
 
 
 
 🎓 College student
 
-🌱 Hope to be a back-end developer
+🌱 Hope to be a back-end developer / Data Analyst
 
-🌴 Interested in Web development and Database
+🌴 Interested in Web development, Database and Big data
 
-🖊️Currently learning 
+✍ Currently learning 
 
+
+<img src="./svg/dev/framework/spring.svg" alt="spring" />
+<img src="./svg/dev/platform/docker.svg" alt="docker" />
+<img src="./svg/dev/platform/kubernetes.svg" alt="kubernetes" />
+<img src="./svg/dev/service/amazonaws.svg" alt="amazonaws" />
+
+📝 Languages 
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -29,8 +36,6 @@
 
 
 
-
-
 💻 Tools
 
 <img align="left" alt="Eclipse" width="26px" src="https://user-images.githubusercontent.com/19311256/89726620-eea4f300-da39-11ea-8d26-8f1d68a2704a.png" />
@@ -43,11 +48,8 @@
 
 
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
-
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=subinmun1997&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=subinmun1997&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=subinmun1997&show_icons=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subinmun1997&layout=compact)
 
