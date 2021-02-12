@@ -1,6 +1,8 @@
-
-Hi there👋
-
+<div align="center">
+  <h1>Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+  
+  <h3> I'm Subin, A developer who is passionate and loves to learn. <br/>These days, I love Spring, Web, Big data, AI😍</h3>
+</div>
 
 
 🎓 College student
@@ -13,9 +15,9 @@ Hi there👋
 
 
 <img src="./svg/dev/framework/spring.svg" alt="spring" />
-<img src="./svg/dev/platform/docker.svg" alt="docker" />
-<img src="./svg/dev/platform/kubernetes.svg" alt="kubernetes" />
-<img src="./svg/dev/service/amazonaws.svg" alt="amazonaws" />
+<img src="svg/dev/services/kubernetes.svg" alt="kubernetes" style="vertical-align:top; margin:4px">
+<img src="svg/dev/tools/docker.svg" alt="docker" style="vertical-align:top; margin:4px">
+<img src="svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
 
 📝 Languages 
 
