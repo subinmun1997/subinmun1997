@@ -7,15 +7,16 @@
 
 🎓 College student
 
-🌱 Hope to be a back-end developer / Data Analyst
+🌱 Hope to be a back-end developer / DataBase Administration 
 
 🌴 Interested in Web development, Database and Big data
 
 ✍ Currently learning 
 
-- Spring
+- Spring Framework
+- MySQL MariaDB Oracle SQL Server
+- Linux
 - kubernetes
-- Docker
 - AWS
 
 📝 Languages 
