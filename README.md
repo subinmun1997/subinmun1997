@@ -14,7 +14,7 @@
 ✍ Currently learning 
 
 - Spring Framework
-- MySQL MariaDB Oracle SQL Server
+- MySQL MariaDB Oracle MongoDB SQL Server
 - Linux
 - kubernetes
 - AWS
