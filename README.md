@@ -53,15 +53,12 @@
 
 
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=subeloper)](https://solved.ac/subeloper/)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=subinmun1997&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=subinmun1997&show_icons=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subinmun1997&layout=compact)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=subeloper)](https://solved.ac/subeloper/)
-
-
 
 
 
