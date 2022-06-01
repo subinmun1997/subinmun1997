@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+  <h1>Hi There</h1>
   
   <h3> I'm Subin, A developer who is passionate and loves to learn. <br/>These days, I love Spring, Web, DataBase😍</h3>
 </div>
