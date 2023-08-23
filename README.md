@@ -1,7 +1,4 @@
 ## 🚀 INFO
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=subeloper)](https://solved.ac/subeloper/)
-
-![subinmun1997's GitHub stats](https://github-readme-stats.vercel.app/api?username=m0jinaa&show_icons=true&theme=highcontrast)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subinmun1997&layout=compact&theme=tokyonight)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=subeloper)](https://solved.ac/subeloper/)![mazandi profile](http://mazandi.herokuapp.com/api?handle=subeloper&theme=cold)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subinmun1997&layout=compact&theme=vue)
 
