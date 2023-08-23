@@ -1,69 +1,15 @@
-<div align="center">
-  <h1>Hi There</h1>
-  
-  <h3> I'm Subin, A developer who is passionate and loves to learn. <br/>These days, I love Spring, Web, DataBase😍</h3>
-</div>
-
-
-🎓 College student
-
-🌱 Hope to be a back-end developer / DataBase Administration 
-
-🌴 Interested in Web development, Database and Big data
-
-✍ Currently learning 
-
-- Spring Framework
-- MySQL MariaDB Oracle MongoDB SQL Server
-- Linux
-- kubernetes
-- AWS
-
-📝 Languages 
-
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<img align="left" alt="Jquery" width="26px" src="https://user-images.githubusercontent.com/19311256/89726918-c28b7100-da3d-11ea-9e0a-b37f1e2527ea.png" />
-<img align="left" alt="Spring tool suite" width="26px" src="https://user-images.githubusercontent.com/19311256/89726919-c61ef800-da3d-11ea-868d-b33d9955dfcc.png" />
-<img align="left" alt="Spring boot" width="26px" src="https://user-images.githubusercontent.com/19311256/89726694-eef1be00-da3a-11ea-8551-a9e143ea0c5d.png" />
-
-
-
-
-💻 Tools
-
-<img align="left" alt="Eclipse" width="26px" src="https://user-images.githubusercontent.com/19311256/89726620-eea4f300-da39-11ea-8d26-8f1d68a2704a.png" />
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-
-
-
-
-
-
-
-
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=subinmun1997&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
+## 🚀 INFO
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=subeloper)](https://solved.ac/subeloper/)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=subinmun1997&show_icons=true&theme=dracula)
+![subinmun1997's GitHub stats](https://github-readme-stats.vercel.app/api?username=m0jinaa&show_icons=true&theme=highcontrast)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subinmun1997&layout=compact&theme=tokyonight)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=subeloper)](https://solved.ac/subeloper/)![mazandi profile](http://mazandi.herokuapp.com/api?handle=subeloper&theme=cold)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subinmun1997&layout=compact&theme=vue)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subinmun1997&layout=compact)
-
-
-
+## 📚 STACKS
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"><img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+### hasExperienced
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"><br/><img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"><br/><img src="https://img.shields.io/badge/jenkins-7b2d00?style=for-the-badge&logo=jenkins&logoColor=white"><img src="https://img.shields.io/badge/SWAGGER-6E64C7?style=for-the-badge&logo=SWAGGER&logoColor=white">
+<br/>
+<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">![img](https://camo.githubusercontent.com/c75eb74744dd435c8f353a621e97b392201c530225b32b1be88d6cd38a1b1448/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416d617a6f6e4157532d4646393930423f7374796c653d666f722d7468652d6261646765266c6f676f3d616d617a6f6e617773266c6f676f436f6c6f723d7768697465)<img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white"><img src="https://img.shields.io/badge/Docker -2496ED?style=for-the-badge&logo=docker&logoColor=white"><br/>![img](https://camo.githubusercontent.com/a9a95986631c3d4945a63d42d2864e3918a834d672d907e174a29f743a1bc3f1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769742d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465)<img src="https://img.shields.io/badge/Gitlab -FC6D26?style=for-the-badge&logo=Gitlab&logoColor=white">
+<br>
+![img](https://camo.githubusercontent.com/d20c06f1854face8c434a4fa2ffa62a2c6d52368120cc7dafd77166da5732caf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f74696f6e2d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f74696f6e266c6f676f436f6c6f723d7768697465)<img src="https://img.shields.io/badge/Jira -0052CC?style=for-the-badge&logo=Jira Software&logoColor=white">
